@@ -1,5 +1,5 @@
 ﻿{
-    "banner": ["banner/1.png", "banner/2.png", "banner/3.png"],
+    "banner": ["banner/1.png", "banner/2.png", "banner/3.png", "banner/4.png"],
     "data": [{
         "id": "fmhz58mm",
         "text": "覆膜徽章58mm",
@@ -13,45 +13,98 @@
         }, {
             "id": "fmhz58mm-008",
             "text": "白露",
-            "cover": ["覆膜徽章58mm/白露.JPG"],
+            "cover": ["覆膜徽章58mm/白露.png", "覆膜徽章58mm/白露1.jpg"],
             "order": 1,
             "price": 10
         }, {
             "id": "fmhz58mm-002",
             "text": "符玄",
-            "cover": ["覆膜徽章58mm/符玄.JPG"],
+            "cover": ["覆膜徽章58mm/符玄.png"],
             "order": 2,
             "price": 10
         }, {
             "id": "fmhz58mm-003",
-            "text": "胡桃",
-            "cover": ["覆膜徽章58mm/胡桃.JPG"],
+            "text": "胡桃1",
+            "cover": ["覆膜徽章58mm/胡桃.png"],
+            "order": 3,
+            "price": 10
+        }, {
+            "id": "fmhz58mm-004",
+            "text": "胡桃2",
+            "cover": ["覆膜徽章58mm/胡桃1.png"],
             "order": 3,
             "price": 10
         },{
-            "id": "fmhz58mm-004",
+            "id": "fmhz58mm-005",
             "text": "纳西妲",
             "cover": ["覆膜徽章58mm/纳西妲.png"],
             "order": 4,
             "price": 10
         }, {
-            "id": "fmhz58mm-005",
+            "id": "fmhz58mm-006",
             "text": "申鹤",
-            "cover": ["覆膜徽章58mm/申鹤.JPG"],
+            "cover": ["覆膜徽章58mm/申鹤.png"],
             "order": 5,
             "price": 10
         }, {
-            "id": "fmhz58mm-006",
+            "id": "fmhz58mm-007",
             "text": "神里JK",
-            "cover": ["覆膜徽章58mm/神里JK.JPG"],
+            "cover": ["覆膜徽章58mm/神里JK.png", "覆膜徽章58mm/神里JK1.jpg", "覆膜徽章58mm/神里JK2.jpg"],
             "order": 6,
             "price": 10
         }, {
-            "id": "fmhz58mm-007",
+            "id": "fmhz58mm-008",
+            "text": "神里花时来信",
+            "cover": ["覆膜徽章58mm/神里花时来信.png"],
+            "order": 6,
+            "price": 10
+        }, {
+            "id": "fmhz58mm-009",
             "text": "宵宫",
             "cover": ["覆膜徽章58mm/宵宫.png"],
             "order": 7,
             "price": 10
+        }, {
+            "id": "fmhz58mm-010",
+            "text": "神子",
+            "cover": ["覆膜徽章58mm/神子.png"],
+            "order": 7,
+            "price": 10
+        }, {
+            "id": "fmhz58mm-011",
+            "text": "归终",
+            "cover": ["覆膜徽章58mm/归终.png"],
+            "order": 7,
+            "price": 10
+        }]
+    }, {
+        "id": "sshz58mm",
+        "text": "双闪徽章58mm",
+        "order": 2,
+        "children": [{
+            "id": "sshz58mm-001",
+            "text": "申鹤",
+            "cover": ["双闪徽章58mm/申鹤.png"],
+            "order": 1,
+            "price": 15
+        }, {
+            "id": "sshz58mm-002",
+            "text": "神里JK",
+            "cover": ["双闪徽章58mm/神里JK.png"],
+            "order": 2,
+            "price": 15
+        }, {
+            "id": "sshz58mm-003",
+            "text": "宵宫",
+            "cover": ["双闪徽章58mm/宵宫.png"],
+            "order": 4,
+            "price": 15
+        }, {
+            "id": "sshz58mm-004",
+            "text": "纳西妲",
+            "cover": ["双闪徽章58mm/纳西妲.png"],
+            "order": 5,
+            "price": 15
         }]
     }, {
         "id": "sshz75mm",
@@ -60,13 +113,13 @@
         "children": [{
             "id": "fmhz75mm-001",
             "text": "胡桃",
-            "cover": ["双闪徽章75mm/胡桃.JPG"],
+            "cover": ["双闪徽章75mm/胡桃.png"],
             "order": 1,
             "price": 16
         }, {
             "id": "fmhz75mm-002",
             "text": "申鹤",
-            "cover": ["双闪徽章75mm/申鹤.JPG"],
+            "cover": ["双闪徽章75mm/申鹤.png"],
             "order": 2,
             "price": 16
         }, {
@@ -218,7 +271,7 @@
         },{
             "id": "gh-003",
             "text": "符玄",
-            "cover": ["挂画/符玄.jpg"],
+            "cover": ["挂画/符玄.png"],
             "order": 1,
             "price": 42
         },{
@@ -236,13 +289,13 @@
         },{
             "id": "gh-006",
             "text": "纳西妲",
-            "cover": ["挂画/纳西妲.jpg"],
+            "cover": ["挂画/纳西妲.png"],
             "order": 1,
             "price": 42
         },{
             "id": "gh-007",
             "text": "绮良良",
-            "cover": ["挂画/绮良良.jpg"],
+            "cover": ["挂画/绮良良.png"],
             "order": 2,
             "price": 42
         },{
@@ -254,29 +307,35 @@
         },{
             "id": "gh-009",
             "text": "神里JK",
-            "cover": ["挂画/神里JK.jpg"],
+            "cover": ["挂画/神里JK.png"],
             "order": 1,
             "price": 42
         },{
             "id": "gh-010",
             "text": "神里花时来信",
-            "cover": ["挂画/神里花时来信.jpg"],
+            "cover": ["挂画/神里花时来信.png"],
             "order": 1,
             "price": 42
         },{
             "id": "gh-011",
+            "text": "荧",
+            "cover": ["挂画/荧.png"],
+            "order": 1,
+            "price": 42
+        },{
+            "id": "gh-012",
             "text": "更多款式见米游铺",
             "cover": ["挂画/更多款式见米游铺1.png"],
             "order": 5,
             "price": 42
         },{
-            "id": "gh-012",
+            "id": "gh-013",
             "text": "更多款式见米游铺",
             "cover": ["挂画/更多款式见米游铺2.png"],
             "order": 5,
             "price": 42
         },{
-            "id": "gh-013",
+            "id": "gh-014",
             "text": "更多款式见米游铺",
             "cover": ["挂画/更多款式见米游铺3.png"],
             "order": 1,
@@ -301,7 +360,7 @@
         },{
             "id": "pld-003",
             "text": "原神套装",
-            "cover": ["拍立得/原神套装.png"],
+            "cover": ["拍立得/原神套装.png", "拍立得/原神套装1.png", "拍立得/原神套装2.png", "拍立得/原神套装3.png"],
             "order": 1,
             "price": 10
         }]
@@ -324,7 +383,7 @@
         },{
             "id": "sz-003",
             "text": "菲谢尔",
-            "cover": ["色纸/珐露珊.png"],
+            "cover": ["色纸/菲谢尔.png"],
             "order": 4,
             "price": 20
         },{
@@ -336,7 +395,7 @@
         },{
             "id": "sz-005",
             "text": "胡桃",
-            "cover": ["色纸/胡桃.png"],
+            "cover": ["色纸/胡桃.png", "色纸/胡桃1.jpg", "色纸/胡桃2.jpg"],
             "order": 1,
             "price": 20
         },{
@@ -352,7 +411,6 @@
             "order": 3,
             "price": 20
         },{
-        
             "id": "sz-008",
             "text": "喵咕酱",
             "cover": ["色纸/喵咕酱.png"],
@@ -409,7 +467,13 @@
         },{
             "id": "sz-017",
             "text": "神里花时来信",
-            "cover": ["色纸/神里花时来信.jpg"],
+            "cover": ["色纸/神里花时来信.png"],
+            "order": 1,
+            "price": 20
+        },{
+            "id": "sz-018",
+            "text": "瑶瑶",
+            "cover": ["色纸/瑶瑶.png"],
             "order": 1,
             "price": 20
         }]
@@ -420,37 +484,37 @@
         "children": [{
             "id": "ysk-001",
             "text": "爱莉",
-            "cover": ["钥匙扣/爱莉.png"],
+            "cover": ["钥匙扣/爱莉.png", "钥匙扣/爱莉1.png"],
             "order": 1,
             "price": 18
         },{
             "id": "ysk-002",
             "text": "白露",
-            "cover": ["钥匙扣/白露.png"],
+            "cover": ["钥匙扣/白露.png", "钥匙扣/白露1.png"],
             "order": 3,
             "price": 18
         },{
             "id": "ysk-003",
             "text": "胡桃",
-            "cover": ["钥匙扣/胡桃.png"],
+            "cover": ["钥匙扣/胡桃.png", "钥匙扣/胡桃1.png"],
             "order": 1,
             "price": 18
         },{
             "id": "ysk-004",
             "text": "纳西妲",
-            "cover": ["钥匙扣/纳西妲.png"],
+            "cover": ["钥匙扣/纳西妲.png", "钥匙扣/纳西妲1.png"],
             "order": 1,
             "price": 18
         },{
             "id": "ysk-005",
             "text": "申鹤",
-            "cover": ["钥匙扣/申鹤.png"],
+            "cover": ["钥匙扣/申鹤.png", "钥匙扣/申鹤1.png"],
             "order": 1,
             "price": 18
         },{
             "id": "ysk-006",
             "text": "神里",
-            "cover": ["钥匙扣/神里.png"],
+            "cover": ["钥匙扣/神里.png", "钥匙扣/神里1.png"],
             "order": 1,
             "price": 18
         },{
@@ -467,7 +531,7 @@
         "children": [{
             "id": "sjzj-001",
             "text": "爱莉",
-            "cover": ["手机支架/爱莉.jpg"],
+            "cover": ["手机支架/爱莉.png"],
             "order": 2,
             "price": 25
         },{
@@ -479,7 +543,7 @@
         },{
             "id": "sjzj-003",
             "text": "申鹤",
-            "cover": ["手机支架/申鹤.jpg"],
+            "cover": ["手机支架/申鹤.png"],
             "order": 2,
             "price": 25
         },{
@@ -531,7 +595,7 @@
         "children": [{
             "id": "3dkbsz-001",
             "text": "申鹤",
-            "cover": ["3D可变扇子/申鹤.png"],
+            "cover": ["3D可变扇子/申鹤.png", "3D可变扇子/申鹤1.png", "3D可变扇子/申鹤2.png", "3D可变扇子/申鹤3.png", "3D可变扇子/申鹤4.png"],
             "order": 1,
             "price": 15
         }]
