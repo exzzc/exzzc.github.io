@@ -560,25 +560,25 @@
         "children": [{
             "id": "lp-001",
             "text": "符玄",
-            "cover": ["立牌/符玄.jpg"],
+            "cover": ["立牌/符玄.jpg", "立牌/符玄1.jpg", "立牌/符玄2.jpg", "立牌/符玄3.jpg"],
             "order": 2,
             "price": 35
         },{
             "id": "lp-002",
             "text": "归终",
-            "cover": ["立牌/归终.png"],
+            "cover": ["立牌/归终.jpg", "立牌/归终1.jpg", "立牌/归终2.jpg", "立牌/归终3.jpg"],
             "order": 1,
             "price": 35
         },{
             "id": "lp-003",
             "text": "胡桃",
-            "cover": ["立牌/胡桃.jpg"],
+            "cover": ["立牌/胡桃.jpg", "立牌/胡桃1.jpg", "立牌/胡桃2.jpg"],
             "order": 2,
             "price": 35
         },{
             "id": "lp-004",
             "text": "纳西妲",
-            "cover": ["立牌/纳西妲.png"],
+            "cover": ["立牌/纳西妲.jpg", "立牌/纳西妲1.jpg", "立牌/纳西妲2.jpg"],
             "order": 1,
             "price": 35
         },{
